@@ -1,4 +1,4 @@
-# Celebrity Search & AI Assistant 
+# Celebrity Search & AI Assistant  🔍
 A powerful Streamlit web application that provides comprehensive information about celebrities and answers general questions using OpenRouter AI API.
 
 https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
